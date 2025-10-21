@@ -120,7 +120,14 @@ H_new = alpha * H_current + (1 - alpha) * H_previous
 - **Depth Maps**: Accurate distance estimation (e.g., using LIDAR supervision in nuScenes), visualized as heatmaps.
 - Sample outputs are included in the notebooks. For real-time performance, optimize with GPU.
 
-See the project report (`CV_Project_Report.pdf`) for detailed methodology, literature review, and figures.
+See the project report [CV_Project_Report.pdf](report/CV_Project_Report.pdf) for detailed methodology, literature review, and figures.
+
+
+
+https://github.com/user-attachments/assets/99524a76-fa7e-44ab-ac9a-5d5280b6a28b
+
+https://github.com/user-attachments/assets/bf3b4fef-9013-4f89-9809-1be0a60835e1
+
 
 ## Challenges
 - **Dataset Size**: Large volumes (e.g., 15+ GB) required selective downloading.
